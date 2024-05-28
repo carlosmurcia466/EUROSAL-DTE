@@ -1,0 +1,38 @@
+"emisor":{
+  "nit": null,
+  "nrc": "1123",
+  "nombre": null,
+  "codActividad": null,
+  "descActividad": null,
+  "nombreComercial": null,
+  "tipoEstablecimiento": null,
+  "direccion": [
+    {
+      "departamento": "05",
+      "municipio": "05",
+      "complemento": "san salvador"
+    }
+  ],
+  "telefono": null,
+  "correo": null,
+  "codEstableMH": null,
+  "codEstable": null,
+  "codPuntoVentaMH": null,
+  "codPuntoVenta": null
+}"receptor":{
+  "nit": null,
+  "nrc": null,
+  "nombre": null,
+  "codActividad": null,
+  "descActividad": null,
+  "nombreComercial": null,
+  "direccion": [
+    {
+      "departamento": "00",
+      "municipio": "00",
+      "complemento": "la libertad"
+    }
+  ],
+  "telefono": null,
+  "correo": null
+}
